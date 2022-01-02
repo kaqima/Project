@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PlayChess.qml</file>
+        <file>source/chessImage/logBg.jpg</file>
+        <file>source/chessImage/VCG21dc3380ded.jpg</file>
+        <file>source/chessImage/VCG21decab5f7a.jpg</file>
+        <file>source/chessImage/VCG21869fcf0bc.jpg</file>
+        <file>source/chessImage/VCG211262787389.jpg</file>
+        <file>source/chessImage/VCG211299465426.jpg</file>
+        <file>source/chessImage/VCG211311863895.jpg</file>
+        <file>source/chessImage/blueChess/bing.png</file>
+        <file>source/chessImage/blueChess/che.png</file>
+        <file>source/chessImage/blueChess/jiang.png</file>
+        <file>source/chessImage/blueChess/ma.png</file>
+        <file>source/chessImage/blueChess/pao.png</file>
+        <file>source/chessImage/blueChess/shi.png</file>
+        <file>source/chessImage/blueChess/xiang.png</file>
+        <file>source/chessImage/redChess/bing.png</file>
+        <file>source/chessImage/redChess/che.png</file>
+        <file>source/chessImage/redChess/jiang.png</file>
+        <file>source/chessImage/redChess/ma.png</file>
+        <file>source/chessImage/redChess/pao.png</file>
+        <file>source/chessImage/redChess/shi.png</file>
+        <file>source/chessImage/redChess/xiang.png</file>
+        <file>Login.qml</file>
+        <file>source/chessImage/chessBoardImage.png</file>
+        <file>source/chessImage/chessBoardLine.png</file>
+        <file>PlayChessOnline.qml</file>
+        <file>Home.qml</file>
+        <file>source/music/JiangJun.wav</file>
+        <file>source/music/moveChess.wav</file>
+        <file>source/music/drumEnd.wav</file>
+        <file>source/music/drumStart.wav</file>
+        <file>source/music/beiJIangjun.wav</file>
+    </qresource>
+</RCC>
